@@ -1,0 +1,48 @@
+{
+  "name": "choosatron.github.io",
+  "description": "Choosatron's website at choosatron.github.io.",
+  "version": "0.1.0",
+  "homepage": "http://choosatron.github.io",
+  "author": {
+    "name": "Jerry Belich",
+    "url": "http://github.com/jerrytron/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/choosatron/choosatron.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/choosatron/choosatron.github.io/issues"
+  },
+  "engines": {
+    "node": ">=0.8"
+  },
+  "scripts": {
+    "test": "grunt assemble"
+  },
+  "devDependencies": {
+    "assemble": "~0.4.33",
+    "grunt": "~0.4.2",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-connect": "~0.6.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "load-grunt-tasks": "~0.2.1",
+    "time-grunt": "~0.2.7",
+    "grunt-push-release": "~0.1.1",
+    "grunt-contrib-sass": "~0.7.2"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/choosatron/choosatron.github.io/blob/master/LICENSE-MIT"
+    }
+  ],
+  "keywords": [
+    "assemble",
+    "templates",
+    "handlebars",
+    "site generator",
+    "site builder",
+    "grunt"
+  ]
+}

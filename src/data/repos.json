@@ -1,0 +1,57 @@
+{
+  "hardware": [
+    {
+      "title": "kit-assets",
+      "description": "Choosatron Kit Asset Files",
+      "available": false
+    }
+  ],
+  "firmware": [
+    {
+      "title": "choosatron-core-firmware",
+      "description": "Choosatron Spark Core Firmware",
+      "available": true
+    },
+    {
+      "title": "choosatron-photon-firmware",
+      "description": "Choosatron Photon Firmware",
+      "available": false
+    }
+  ],
+  "writing": [
+    {
+      "title": "choosatron-write",
+      "description": "Choosatron Write, a cross-platform Chrome app, and the official setup and writing application for Choosatron.",
+      "available": true
+    },
+    {
+      "title": "stories",
+      "description": "Choosatron story source.",
+      "available": false
+    }
+  ],
+  "mobile": [
+    {
+      "title": "android-app",
+      "description": "The Choosatron android app.",
+      "available": false
+    },
+    {
+      "title": "ios-app",
+      "description": "The Choosatron iOS app.",
+      "available": false
+    }
+  ],
+  "dev": [
+    {
+      "title": "docs",
+      "description": "Documentation for the Choosatron firmware.",
+      "available": false
+    },
+    {
+      "title": "choosatron.github.io",
+      "description": "This very site. Totally meta.",
+      "available": true
+    }
+  ]
+}
