@@ -20,9 +20,9 @@ The content below includes everything necessary to setup, play, and write storie
   {{> repo}}
 {{/each}}
 
-#### Writing and content
+#### Content
 
-{{#each repos.writing}}
+{{#each repos.content}}
   {{> repo}}
 {{/each}}
 
