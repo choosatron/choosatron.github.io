@@ -45,8 +45,13 @@
   "dev": [
     {
       "title": "docs",
-      "description": "Documentation for the Choosatron firmware.",
+      "description": "Documentation for the Choosatron firmware/software.",
       "available": false
+    },
+    {
+      "title": "open-source",
+      "description": "The Choosatron open source umbrella project. Required reading if you wish to contribute code.",
+      "available": true
     },
     {
       "title": "choosatron.github.io",

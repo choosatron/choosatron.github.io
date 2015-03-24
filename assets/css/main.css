@@ -69,7 +69,7 @@ h4 + .repo {
 .repo {
   float: left;
   height: 240px;
-  width: 260px;
+  width: 265px;
   border: 5px solid #eee;
   padding: 10px;
   margin-bottom: 36px;
@@ -92,7 +92,7 @@ ul {
   padding-left: 18px;
   margin-top: -30px; }
   ul li {
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 300; }
 
 ul + h3 {
